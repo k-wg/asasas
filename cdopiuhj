@@ -1,0 +1,5 @@
+When rsi bottom blu e apppears, we wait till price is over top band and we wait maybe for price to reduce b4 entry
+
+When rsi rop red appears,   we wait till price drops below basis and then rebounds and then over the top band / we wait till price drops below basis and then rebounds and then over the top band and then two sparks occur
+
+iftraffic signal appears below bottom band after red rsi, we exit immediately or use linear regression blue region when traffic signal occour
